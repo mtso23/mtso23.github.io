@@ -123,7 +123,8 @@ h4 {
 }
 
 #data-panel {
-	overflow: auto;
+	height: 100%;
+	overflow-y: auto;
 }
 
 /*
